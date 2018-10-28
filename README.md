@@ -1,4 +1,4 @@
-# cosineSimilarity
+#  Cosine Similarity
 
 
 1) cossim sparse(v1,v2) in distsim.py computes and displays the cosine similarities between each pair of the words 
